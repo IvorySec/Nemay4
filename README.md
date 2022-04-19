@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nemay4
-- 👀 I’m a mechanical engineering Student 
-- 🌱 I’m currently learning C++
+- 👀 I’m  Nothing
+- 🌱 I’m currently learning - Nothing
 - 💞️ I’m looking to collaborate on any any project ,
 - 📫 How to reach me in nimaiofficial123@gmail.com
 

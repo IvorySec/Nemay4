@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/teen_ten10" target="blank"><img src="https://img.shields.io/twitter/follow/teen_ten10?logo=twitter&style=for-the-badge" alt="teen_ten10" /></a> </p>
 
-- 🔭 I’m currently working on **Mitegate the DDos Attack**
 
-- 🌱 I’m currently learning **Boto 3 , Cloud , DSA**
+- 🌱 I’m currently learning **Boto 3 , With AWS**
 
 - 👯 I’m looking to collaborate on **Cybersecurty tools and project**
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 💬 Ask me about **CyberSecurity and DevOps**
+- 💬 Ask me about **Cloud and DevOps**
 
 - 📫 How to reach me **nimaiofficial123@gmail.cpm**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimai Mandal</h1>
 <h3 align="center">I'm passionate about learning about new tech such as Information security , DevOps, Cloud and Blockchain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimaiwb&label=Profile%20views&color=0e75b6&style=flat" alt="nimaiwb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimaiwb&label=Profile%20views&color=0e75b6&style=flat" alt="soibee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimaiwb" alt="nimaiwb" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Boto 3 , With AWS**
 
-- 👯 I’m looking to collaborate on **Cybersecurty tools and project**
+- 👯 I’m looking to collaborate on **Cybersecurity tools and project**
 
 - 🤝 I’m looking for help with **Open Source**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nimaiofficial123@gmail.cpm**
 
-- ⚡ Fun fact **I love to travel but I don't get chance idk why**
+- ⚡ Fun fact **I love to travel but I don't get a chance idk why**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

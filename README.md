@@ -8,17 +8,17 @@
 <p align="left"> <a href="https://twitter.com/teen_ten10" target="blank"><img src="https://img.shields.io/twitter/follow/teen_ten10?logo=twitter&style=for-the-badge" alt="teen_ten10" /></a> </p>
 
 
-- 🌱 I’m currently learning **Boto 3 , With AWS**
+- 🌱 I’m currently learning **GRC , Python , With AWS**
 
-- 👯 I’m looking to collaborate on **Cyber Security**
+- 👯 I’m looking to collaborate on **CryptoGraphy**
 
-- 🤝 I’m looking for help with **Python Development**
+- 🤝 I’m looking for help with **Python**
 
 - 💬 Ask me about **Cloud Security and DevOps**
 
 - 📫 How to reach me **nimaiofficial123@gmail.cpm**
 
-- ⚡ Fun fact **I love to travel but I don't get a chance idk why**
+- ⚡ Fun fact **I love to travel but I don't get a chance idk why I'm so busy brah**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

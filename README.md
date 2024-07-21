@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Boto 3 , With AWS**
 
-- 👯 I’m looking to collaborate on **Cybersecurity tools and project**
+- 👯 I’m looking to collaborate on **Cyber Security**
 
-- 🤝 I’m looking for help with **Open Source**
+- 🤝 I’m looking for help with **Python Development**
 
-- 💬 Ask me about **Cloud and DevOps**
+- 💬 Ask me about **Cloud Security and DevOps**
 
 - 📫 How to reach me **nimaiofficial123@gmail.cpm**
 
